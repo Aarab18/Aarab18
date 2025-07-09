@@ -40,6 +40,14 @@
 
 ---
 
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,tensorflow,numpy,pandas,jupyter,git,github,vscode&perline=7" />
+</p>
+
+---
+
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
 <p align="center">
