@@ -46,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,tensorflow,numpy,pandas,jupyter,git,github,vscode&perline=7" />
 </p>
 
+
 ---
 
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
@@ -61,13 +62,21 @@
 
 ---
 
-## 🧠 𝑳𝒆𝒆𝒕𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
+## 🧠 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/Aarab18">
-    <img src="https://leetcard.jacoblin.cool/Aarab18?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/Aarab18">
+        <img src="https://leetcard.jacoblin.cool/Aarab18?theme=dark&font=Ubuntu&extension=null" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQFECzlsktkisQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715583200808?e=2147483647&v=beta&t=Cd_yU9bEHjysx2uv9VVvDLRRHXWcXSFbrCfVf55yhGc" alt="Custom Image" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
